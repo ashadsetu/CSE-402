@@ -15,7 +15,7 @@
 </pre>
 
 <p>
-  A centralized workspace for <b>CSE 402 Operating Systems Lab</b>, containing
+  A centralized workspace for <b>匚丂乇 丩꧰己 ㄖ尸㠪尺闩ㄒ工𝓝Ꮆ 丂ㄚ丂ㄒ㠪爪丂 ㇄闩乃</b>, containing
   laboratory programs, experiments, source codes, reports, and practical implementations.
 </p>
 
