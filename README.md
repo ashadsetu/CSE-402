@@ -1,8 +1,14 @@
 <div align="center">
 
-![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F) ![CSE 402](https://img.shields.io/badge/CSE--402-FF00FF?style=for-the-badge&labelColor=09000F)
+`[̷C̷S̷E̷ ̷4̷0̷2̷]`
 
-![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F) ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-00FFFF?style=for-the-badge&labelColor=09000F)
+![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
+
+`//̷/̷/̷  O P E R A T I N G   S Y S T E M  //̷/̷/̷`
+
+![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
+
+`< SYSTEM :: ONLINE >  < LAB :: READY >`
 
 </div>
 
