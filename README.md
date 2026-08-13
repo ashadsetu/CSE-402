@@ -14,9 +14,11 @@
  ╚═════╝╚══════╝╚══════╝         ╚═╝ ╚═════╝ ╚══════╝
 </pre>
 
-<h3>O P E R A T I N G &nbsp; S Y S T E M &nbsp; L A B</h3>
-
-</div>
+<h3>
+  <span style="color:#00FFFF;">
+    O P E R A T I N G &nbsp; S Y S T E M &nbsp; L A B
+  </span>
+</h3>
 
 <p>
   A centralized workspace for <b>C̵̢̛̺̣͕͇̜̹̩̣̜̯̚͝ş̵̬͎̥̺̟̞̞̲͙̟̐̾͗̅͋̏̎̈́̅̋͠e̵͉͎̅̍̍͘͝4̸̛̞̠̙̜͙͎̼͑0̵̦̟̮̮̬͑͐̈̕2̸͕̗̟͍̪͈̯̘̇͗̂̀̓͒— Operating Systems Lab</b>, containing
