@@ -1,9 +1,6 @@
-<div align="center">
+# FCFS (First-Come, First-Served)
 
-![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
-![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
-
-!<pre>
+```text
  ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗
 ██╔════╝ ██╔════╝██╔════╝     ██║  ██║██╔═████╗╚════██╗
 ██║      ███████╗█████╗       ███████║██║██╔██║ █████╔╝
@@ -13,51 +10,56 @@
 
               O P E R A T I N G   S Y S T E M
                          L A B
-</pre>
+```
 
-<p>
-  A centralized workspace for <b>CSE 402 — Operating Systems Lab</b>, containing
-  laboratory programs, experiments, source codes, reports, and practical implementations.
-</p>
+## FCFS Scheduling
 
-</div>
+**FCFS (First-Come, First-Served)** is a simple CPU scheduling algorithm where the process that arrives first is executed first.
 
-### 📚 Repository Includes
+### Features
 
-- 💻 Operating Systems programs & implementations
-- 🧪 Laboratory experiments
-- 📝 Reports & documentation
-- 📂 Source codes
-- 📖 Practice & learning materials
+* Non-preemptive scheduling algorithm
+* Processes are executed in arrival order
+* Simple and easy to implement
+* Uses a FIFO (First-In, First-Out) approach
 
-### 🧠 Core Areas
+### Files
 
-<div align="center">
+* `FCPS.py` — Python implementation of FCFS CPU scheduling.
 
-![Process Management](https://img.shields.io/badge/PROCESS%20MANAGEMENT-00FFFF?style=for-the-badge&labelColor=09000F)
-![CPU Scheduling](https://img.shields.io/badge/CPU%20SCHEDULING-FF00FF?style=for-the-badge&labelColor=09000F)
-![Process Synchronization](https://img.shields.io/badge/PROCESS%20SYNCHRONIZATION-00FF66?style=for-the-badge&labelColor=09000F)
+### Scheduling Metrics
 
-![Deadlocks](https://img.shields.io/badge/DEADLOCKS-FF3366?style=for-the-badge&labelColor=09000F)
-![Memory Management](https://img.shields.io/badge/MEMORY%20MANAGEMENT-00FFFF?style=for-the-badge&labelColor=09000F)
-![Page Replacement](https://img.shields.io/badge/PAGE%20REPLACEMENT-FF00FF?style=for-the-badge&labelColor=09000F)
+The program can calculate:
 
-![File Management](https://img.shields.io/badge/FILE%20MANAGEMENT-00FF66?style=for-the-badge&labelColor=09000F)
-![Disk Scheduling](https://img.shields.io/badge/DISK%20SCHEDULING-FFCC00?style=for-the-badge&labelColor=09000F)
-![IPC](https://img.shields.io/badge/IPC-00FFFF?style=for-the-badge&labelColor=09000F)
-![Threads](https://img.shields.io/badge/THREADS-FF00FF?style=for-the-badge&labelColor=09000F)
+* **Completion Time (CT)**
+* **Turnaround Time (TAT)**
+* **Waiting Time (WT)**
 
-</div>
+### Formula
 
-> 🎯 **Purpose:** To organize and document the practical work and learning outcomes of CSE 402.
+```text
+Turnaround Time = Completion Time - Arrival Time
+
+Waiting Time = Turnaround Time - Burst Time
+```
+
+### Example
+
+```text
+Process    Arrival Time    Burst Time
+P1         0               5
+P2         1               3
+P3         2               2
+```
+
+Execution order:
+
+```text
+P1 → P2 → P3
+```
 
 ---
 
-```console
-root@cse402:~$ ./start
-
-[✓] Lab tasks loaded
-[✓] Lab works ready
-[✓] Submissions initialized
-
-STATUS: ONLINE
+**Course:** CSE-402
+**Lab:** Operating System Lab
+**Algorithm:** FCFS (First-Come, First-Served)
