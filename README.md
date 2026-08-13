@@ -6,7 +6,8 @@
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
 
  
-https://github.com/user-attachments/assets/b82b14b8-3f4f-40d7-9ece-136ead88194e
+<img width="800" height="218" alt="CSE-402-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/60931b1f-4d72-44a4-ad34-47f02a33768f" />
+
 
 
 <h3>O P E R A T I N G &nbsp; S Y S T E M &nbsp; L A B</h3>
