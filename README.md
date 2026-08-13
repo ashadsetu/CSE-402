@@ -1,90 +1,93 @@
 <div align="center">
 
 <pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   C S E   4 0 2                                              ║
-║                                                              ║
-║   ██████╗ ███████╗                                           ║
-║  ██╔════╝ ██╔════╝                                           ║
-║  ██║     ███████╗                                            ║
-║  ██║     ╚════██║                                            ║
-║  ╚██████╗ ███████║                                           ║
-║   ╚═════╝ ╚══════╝                                           ║
-║                                                              ║
-║        O P E R A T I N G   S Y S T E M   L A B             ║
-║                                                              ║
-║        [ SYSTEM ONLINE ]  [ LAB READY ]                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██╗   ██╗██████╗ ███████╗██████╗                     ║
+║  ██╔══╝  ╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                    ║
+║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                    ║
+║  ██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗                    ║
+║  ╚██████╗   ██║   ██║     ███████╗██║  ██║                    ║
+║   ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝                    ║
+║                                                                ║
+║              C Y B E R  //  O S  L A B                        ║
+║                                                                ║
+║              C S E   4 0 2   ::   2 0 2 6                    ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
+<pre>
+╭──────────────────────────────────────────────────────────────────╮
+│  ◈ NETWORK       ONLINE     │  ◈ KERNEL       CSE-402           │
+│  ◈ TERMINAL      ACTIVE     │  ◈ LAB          READY             │
+╰──────────────────────────────────────────────────────────────────╯
 </pre>
 
 </div>
 
----
-
 <pre>
-root@cse402:~$ ./initialize
-
-[  OK  ] SYSTEM BOOT
-[  OK  ] LAB ENVIRONMENT
-[  OK  ] TASK DIRECTORY
-[  OK  ] WORKSPACE READY
-
-STATUS : ONLINE
+┌─[ SYSTEM BOOT SEQUENCE ]─────────────────────────────────────────┐
+│                                                                  │
+│  root@cse402:~$ ./boot                                       █   │
+│                                                                  │
+│  [✓] Initializing terminal                                      │
+│  [✓] Loading operating system lab                              │
+│  [✓] Mounting lab workspace                                    │
+│  [✓] System status ................. ONLINE                    │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 </pre>
 
-## `// 01 :: CSE 402 — OPERATING SYSTEM LAB`
+## `// CSE_402 :: OPERATING_SYSTEM_LAB`
 
 > **Lab Tasks • Works • Submissions**
 
-This repository contains the **lab tasks and works** for CSE 402.
+A dedicated repository for **CSE 402 Operating System Lab**.
 
 ---
 
 <pre>
-root@cse402:~$ ls
-
-lab-tasks/
-works/
-submissions/
+╭─[ FILE SYSTEM ]──────────────────────────────────────────────────╮
+│                                                                  │
+│  root@cse402:~$ ls --color=always                               │
+│                                                                  │
+│  ├── <span style="color:#00ffff">lab-tasks/</span>       :: Lab Tasks                         │
+│  ├── <span style="color:#ff00ff">works/</span>           :: Lab Works                         │
+│  └── <span style="color:#ffff00">submissions/</span>     :: Submissions                       │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 </pre>
 
-## `// 02 :: FILE SYSTEM`
+## `// SYSTEM_STATUS`
 
 <pre>
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   /lab-tasks       → Lab Tasks                       │
-│   /works           → Lab Works                       │
-│   /submissions     → Submissions                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   SYSTEM        <span style="color:#00ff00">● ONLINE</span>                                      │
+│   COURSE        <span style="color:#00ffff">CSE 402</span>                                      │
+│   ENVIRONMENT   <span style="color:#ff00ff">OPERATING SYSTEM LAB</span>                          │
+│   WORKSPACE     <span style="color:#ffff00">READY</span>                                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 </pre>
 
 ---
 
 <pre>
-root@cse402:~$ systemctl status cse402-lab
-
-● cse402-lab.service
-   Loaded: active
-   Status: RUNNING
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       ▓▓▓  C Y B E R   T E R M I N A L  ▓▓▓                    ║
+║                                                                  ║
+║       [ CSE-402 ]  [ OS-LAB ]  [ ONLINE ]                      ║
+║                                                                  ║
+║       root@cse402:~$ _                                          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
 <div align="center">
 
-<pre>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`// CONNECTION ESTABLISHED //`
 
-              C S E   4 0 2  /  O S   L A B
-
-              [ SYSTEM ONLINE ]
-              [ LAB READY ]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-root@cse402:~$ _
-</pre>
+**CSE 402 • OPERATING SYSTEM LAB**
 
 </div>
