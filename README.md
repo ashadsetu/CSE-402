@@ -1,49 +1,34 @@
 <div align="center">
 
+# CSE 402
+
+![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
+![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
+
 <pre>
-<span style="color:#00ffff"> ██████╗███████╗███████╗</span>  <span style="color:#ff00ff">██╗  ██╗</span>
-<span style="color:#00ffff">██╔════╝██╔════╝██╔════╝</span>  <span style="color:#ff00ff">██║  ██║</span>
-<span style="color:#00ffff">██║     ███████╗█████╗  </span>  <span style="color:#ff00ff">███████║</span>
-<span style="color:#00ffff">██║     ╚════██║██╔══╝  </span>  <span style="color:#ff00ff">╚════██║</span>
-<span style="color:#00ffff">╚██████╗███████║███████╗</span>  <span style="color:#ff00ff">     ██║</span>
-<span style="color:#00ffff"> ╚═════╝╚══════╝╚══════╝</span>  <span style="color:#ff00ff">     ╚═╝</span>
+ ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗ 
+██╔════╝ ██╔════╝██╔════╝     ██║  ██║██╔═████╗╚════██╗
+██║      ███████╗█████╗       ███████║██║██╔██║ █████╔╝
+██║      ╚════██║██╔══╝       ╚════██║████╔╝██║██╔═══╝ 
+╚██████╗ ███████║███████╗          ██║╚██████╔╝███████╗
+ ╚═════╝ ╚══════╝╚══════╝          ╚═╝ ╚═════╝ ╚══════╝
 
-<span style="color:#ff00ff">        O P E R A T I N G   S Y S T E M</span>
-<span style="color:#00ffff">                   L A B</span>
-
-<span style="color:#00ff00">              [ C S E  4 0 2 ]</span>
+              O P E R A T I N G   S Y S T E M
+                         L A B
 </pre>
 
-<span style="color:#00ff00">● SYSTEM ONLINE</span> &nbsp;&nbsp;
-<span style="color:#00ffff">◆ LAB READY</span>
+![SYSTEM](https://img.shields.io/badge/●_SYSTEM-ONLINE-00FF66?style=flat-square&labelColor=09000F)
+![LAB](https://img.shields.io/badge/◆_LAB-READY-00FFFF?style=flat-square&labelColor=09000F)
 
 </div>
 
 ---
 
-<pre>
-<span style="color:#00ffff">root@cse402</span>:~$ <span style="color:#ff00ff">./start</span>
+```console
+root@cse402:~$ ./start
 
-<span style="color:#00ff00">[✓] Lab tasks loaded</span>
-<span style="color:#00ff00">[✓] Lab works ready</span>
-<span style="color:#00ff00">[✓] Submissions initialized</span>
+[✓] Lab tasks loaded
+[✓] Lab works ready
+[✓] Submissions initialized
 
-<span style="color:#ffff00">STATUS:</span> <span style="color:#00ff00">ONLINE</span>
-</pre>
-
-> <span style="color:#00ffff">CSE 402</span> — <span style="color:#ff00ff">Operating System Lab</span>  
-> Lab tasks and works are maintained here.
-
-<pre>
-<span style="color:#00ffff">root@cse402</span>:~$ <span style="color:#ff00ff">ls</span>
-
-<span style="color:#00ffff">lab-tasks/</span>
-<span style="color:#ff00ff">works/</span>
-<span style="color:#ffff00">submissions/</span>
-</pre>
-
-<div align="center">
-
-<span style="color:#ff00ff">// CSE 402 • OS LAB //</span>
-
-</div>
+STATUS: ONLINE
