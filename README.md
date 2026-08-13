@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
@@ -7,14 +9,9 @@
 
 <pre>
  
-_________   ____________________    _____  _______   ________  
-\_   ___ \ /   _____/\_   _____/   /  |  | \   _  \  \_____  \ 
-/    \  \/ \_____  \  |    __)_   /   |  |_/  /_\  \  /  ____/ 
-\     \____/        \ |        \ /    ^   /\  \_/   \/       \ 
- \______  /_______  //_______  / \____   |  \_____  /\_______ \
-        \/        \/         \/       |__|        \/         \/
-                                                     
 
+
+https://github.com/user-attachments/assets/b82b14b8-3f4f-40d7-9ece-136ead88194e
 </pre>
 
 <h3>O P E R A T I N G &nbsp; S Y S T E M &nbsp; L A B</h3>
