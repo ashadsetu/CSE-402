@@ -17,10 +17,24 @@
                          L A B
 </pre>
 
-<p>
-  A centralized workspace for <b>CSE 402</b> lab tasks, completed works, and submissions.
-</p>
-
+<pre>
+┌──[ <span style="color:#00ffff">root@cse402</span> ]──[ <span style="color:#ff00ff">~/operating-system-lab</span> ]
+│
+├── $ <span style="color:#ffff00">cat about.txt</span>
+│
+├── <span style="color:#00ffff">CSE 402 :: OPERATING SYSTEMS LAB</span>
+│
+├── A centralized workspace for laboratory programs,
+│   experiments, source codes, reports, and implementations.
+│
+├── <span style="color:#00ff66">LAB CONTENT</span>
+│   ├── 💻 Programs & Implementations
+│   ├── 🧪 Experiments
+│   ├── 📝 Reports & Documentation
+│   └── 📂 Source Codes
+│
+└── <span style="color:#ff00ff">STATUS :: ACADEMIC WORKSPACE</span>
+</pre>
 ![SYSTEM](https://img.shields.io/badge/●_SYSTEM-ONLINE-00FF66?style=flat-square&labelColor=09000F)
 ![LAB](https://img.shields.io/badge/◆_LAB-READY-00FFFF?style=flat-square&labelColor=09000F)
 
