@@ -3,17 +3,20 @@
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
 
+<div align="center">
+
 <pre>
- 
- ██████╗███████╗███████╗    ██╗  ██╗ ██████╗ ██████╗ 
+ ██████╗███████╗███████╗    ██╗  ██╗ ██████╗ ██████╗
 ██╔════╝██╔════╝██╔════╝    ██║  ██║██╔═████╗╚════██╗
 ██║     ███████╗█████╗      ███████║██║██╔██║ █████╔╝
-██║     ╚════██║██╔══╝      ╚════██║████╔╝██║██╔═══╝ 
+██║     ╚════██║██╔══╝      ╚════██║████╔╝██║██╔═══╝
 ╚██████╗███████║███████╗         ██║╚██████╔╝███████╗
  ╚═════╝╚══════╝╚══════╝         ╚═╝ ╚═════╝ ╚══════╝
-                                                     
-              O P E R A T I N G   S Y S T E M  L A B
 </pre>
+
+<h3>O P E R A T I N G &nbsp; S Y S T E M &nbsp; L A B</h3>
+
+</div>
 
 <p>
   A centralized workspace for <b>C̵̢̛̺̣͕͇̜̹̩̣̜̯̚͝ş̵̬͎̥̺̟̞̞̲͙̟̐̾͗̅͋̏̎̈́̅̋͠e̵͉͎̅̍̍͘͝4̸̛̞̠̙̜͙͎̼͑0̵̦̟̮̮̬͑͐̈̕2̸͕̗̟͍̪͈̯̘̇͗̂̀̓͒— Operating Systems Lab</b>, containing
