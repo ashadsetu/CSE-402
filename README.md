@@ -1,16 +1,7 @@
 <div align="center">
 
-`▓▒░ SYSTEM // 402 ░▒▓`
-
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
-
-`╳╳╳  C S E 4 0 2  //  N E T W O R K   I N I T I A L I Z E D  ╳╳╳`
-
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
-
-`█▓▒░  O S - L A B  //  S Y S T E M   O N L I N E  ░▒▓█`
-
-</div>
 
 <pre>
  ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗
