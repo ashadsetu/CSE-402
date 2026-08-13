@@ -1,14 +1,13 @@
-
-
 <div align="center">
 
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
 
- 
 <img width="800" height="218" alt="CSE-402-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/60931b1f-4d72-44a4-ad34-47f02a33768f" />
 
+</div>
 
+```text
    ___    ___   ___   ___     _     _____   ___   _  _    ___     ___  __   __  ___   _____   ___   __  __     _        _     ___ 
   / _ \  | _ \ | __| | _ \   /_\   |_   _| |_ _| | \| |  / __|   / __| \ \ / / / __| |_   _| | __| |  \/  |   | |      /_\   | _ )
  | (_) | |  _/ | _|  |   /  / _ \    | |    | |  | .` | | (_ |   \__ \  \ V /  \__ \   | |   | _|  | |\/| |   | |__   / _ \  | _ \
