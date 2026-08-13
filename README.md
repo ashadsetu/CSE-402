@@ -3,22 +3,51 @@
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
 
-<pre>
- ██████╗███████╗███████╗    ██╗  ██╗ ██████╗ ██████╗
-██╔════╝██╔════╝██╔════╝    ██║  ██║██╔═████╗╚════██╗
-██║     ███████╗█████╗      ███████║██║██╔██║ █████╔╝
-██║     ╚════██║██╔══╝      ╚════██║████╔╝██║██╔═══╝
-╚██████╗███████║███████╗         ██║╚██████╔╝███████╗
- ╚═════╝╚══════╝╚══════╝         ╚═╝ ╚═════╝ ╚══════╝
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="260" rx="15" fill="#09000F"/>
 
-            O P E R A T I N G  S Y S T E M
-                       L A B
-</pre>
+  <text x="35" y="55"
+        font-family="monospace"
+        font-size="38"
+        font-weight="bold"
+        fill="#00FFFF">
+    CSE
+  </text>
 
-<p>
-  A centralized workspace for <b>CSE 402 — Operating Systems Lab</b>, containing
-  laboratory programs, experiments, source codes, reports, and practical implementations.
-</p>
+  <text x="305" y="55"
+        font-family="monospace"
+        font-size="38"
+        font-weight="bold"
+        fill="#FF00FF">
+    402
+  </text>
+
+  <line x1="35" y1="75" x2="665" y2="75"
+        stroke="#00FF66"
+        stroke-width="2"/>
+
+  <text x="350" y="135"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#00FFFF">
+    O P E R A T I N G   S Y S T E M
+  </text>
+
+  <text x="350" y="180"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#FF00FF">
+    L A B
+  </text>
+
+  <circle cx="265" cy="220" r="5" fill="#00FFFF"/>
+  <circle cx="350" cy="220" r="5" fill="#FF00FF"/>
+  <circle cx="435" cy="220" r="5" fill="#00FF66"/>
+</svg>
 
 </div>
 
