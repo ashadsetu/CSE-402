@@ -2,16 +2,23 @@
 
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
-<div align="center">
 
 <pre>
-<font color="#00FFFF"> ██████╗ </font><font color="#FF00FF">███████╗</font><font color="#00FF66">███████╗</font>    <font color="#FF00FF">██╗  ██╗</font><font color="#00FFFF"> ██████╗ </font><font color="#00FF66">██████╗</font>
-<font color="#00FFFF">██╔════╝ </font><font color="#FF00FF">██╔════╝</font><font color="#00FF66">██╔════╝</font>    <font color="#FF00FF">██║  ██║</font><font color="#00FFFF">██╔═████╗</font><font color="#00FF66">╚════██╗</font>
-<font color="#00FFFF">██║      </font><font color="#FF00FF">███████╗</font><font color="#00FF66">█████╗  </font>    <font color="#FF00FF">███████║</font><font color="#00FFFF">██║██╔██║</font><font color="#00FF66"> █████╔╝</font>
-<font color="#00FFFF">██║      </font><font color="#FF00FF">╚════██║</font><font color="#00FF66">██╔══╝  </font>    <font color="#FF00FF">╚════██║</font><font color="#00FFFF">████╔╝██║</font><font color="#00FF66">██╔═══╝</font>
-<font color="#00FFFF">╚██████╗ </font><font color="#FF00FF">███████║</font><font color="#00FF66">███████╗</font>    <font color="#FF00FF">     ██║</font><font color="#00FFFF">╚██████╔╝</font><font color="#00FF66">███████╗</font>
-<font color="#00FFFF"> ╚═════╝ </font><font color="#FF00FF">╚══════╝</font><font color="#00FF66">╚══════╝</font>    <font color="#FF00FF">     ╚═╝</font><font color="#00FFFF"> ╚═════╝ </font><font color="#00FF66">╚══════╝</font>
+ ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗
+██╔════╝ ██╔════╝██╔════╝     ██║  ██║██╔═████╗╚════██╗
+██║      ███████╗█████╗       ███████║██║██╔██║ █████╔╝
+██║      ╚════██║██╔══╝       ╚════██║████╔╝██║██╔═══╝
+╚██████╗ ███████║███████╗          ██║╚██████╔╝███████╗
+ ╚═════╝ ╚══════╝╚══════╝          ╚═╝ ╚═════╝ ╚══════╝
+
+              O P E R A T I N G   S Y S T E M
+                         L A B
 </pre>
+
+<p>
+  A centralized workspace for <b>CSE 402 — Operating Systems Lab</b>, containing
+  laboratory programs, experiments, source codes, reports, and practical implementations.
+</p>
 
 </div>
 
