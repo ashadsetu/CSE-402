@@ -1,20 +1,25 @@
+# 🖥️ CSE 402 — Operating System Lab
+
 <div align="center">
 
-# 🖥️ CSE 402
-## OPERATING SYSTEM LAB
+### ⚙️ Operating System Lab Repository
+
+**Lab Tasks • Works • Submissions**
+
+</div>
+
+---
+
+> 🧑‍💻 This repository is dedicated to **CSE 402 — Operating System Lab**.  
+> All lab tasks and completed works will be posted here.
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ ███████╗     ██╗      █████╗ ██████╗             ║
-║  ██╔════╝ ██╔════╝     ██║     ██╔══██╗██╔══██╗            ║
-║  ██║      ███████╗     ██║     ███████║██████╔╝            ║
-║  ██║      ╚════██║     ██║     ██╔══██║██╔══██╗            ║
-║  ╚██████╗ ███████║     ███████╗██║  ██║██║  ██║            ║
-║   ╚═════╝ ╚══════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝            ║
-║                                                              ║
-║              ⚙  OPERATING SYSTEM LAB  ⚙                     ║
-║                                                              ║
-║              [ SYSTEM INITIALIZED ✓ ]                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────┐
+│          CSE 402 : OS LAB                │
+│                                          │
+│   > lab_tasks/                           │
+│   > implementations/                     │
+│   > submissions/                         │
+│                                          │
+│   [ SYSTEM ONLINE ✓ ]                    │
+└──────────────────────────────────────────┘
