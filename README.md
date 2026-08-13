@@ -1,19 +1,19 @@
 <div align="center">
+
 ![CSE 402](https://img.shields.io/badge/CSE--402-00FFFF?style=for-the-badge&labelColor=09000F)
 ![OPERATING SYSTEM LAB](https://img.shields.io/badge/OPERATING%20SYSTEM%20LAB-FF00FF?style=for-the-badge&labelColor=09000F)
 
 <pre>
- ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗ 
+ ██████╗ ███████╗███████╗     ██╗  ██╗ ██████╗ ██████╗
 ██╔════╝ ██╔════╝██╔════╝     ██║  ██║██╔═████╗╚════██╗
 ██║      ███████╗█████╗       ███████║██║██╔██║ █████╔╝
-██║      ╚════██║██╔══╝       ╚════██║████╔╝██║██╔═══╝ 
+██║      ╚════██║██╔══╝       ╚════██║████╔╝██║██╔═══╝
 ╚██████╗ ███████║███████╗          ██║╚██████╔╝███████╗
  ╚═════╝ ╚══════╝╚══════╝          ╚═╝ ╚═════╝ ╚══════╝
 
               O P E R A T I N G   S Y S T E M
                          L A B
 </pre>
-<div align="center">
 
 <p>
   A centralized workspace for <b>CSE 402 — Operating Systems Lab</b>, containing
@@ -32,7 +32,22 @@
 
 ### 🧠 Core Areas
 
-`Process Management` • `CPU Scheduling` • `Process Synchronization` • `Deadlocks` • `Memory Management` • `Page Replacement` • `File Management` • `Disk Scheduling` • `IPC` • `Threads`
+<div align="center">
+
+![Process Management](https://img.shields.io/badge/PROCESS%20MANAGEMENT-00FFFF?style=for-the-badge&labelColor=09000F)
+![CPU Scheduling](https://img.shields.io/badge/CPU%20SCHEDULING-FF00FF?style=for-the-badge&labelColor=09000F)
+![Process Synchronization](https://img.shields.io/badge/PROCESS%20SYNCHRONIZATION-00FF66?style=for-the-badge&labelColor=09000F)
+
+![Deadlocks](https://img.shields.io/badge/DEADLOCKS-FF3366?style=for-the-badge&labelColor=09000F)
+![Memory Management](https://img.shields.io/badge/MEMORY%20MANAGEMENT-00FFFF?style=for-the-badge&labelColor=09000F)
+![Page Replacement](https://img.shields.io/badge/PAGE%20REPLACEMENT-FF00FF?style=for-the-badge&labelColor=09000F)
+
+![File Management](https://img.shields.io/badge/FILE%20MANAGEMENT-00FF66?style=for-the-badge&labelColor=09000F)
+![Disk Scheduling](https://img.shields.io/badge/DISK%20SCHEDULING-FFCC00?style=for-the-badge&labelColor=09000F)
+![IPC](https://img.shields.io/badge/IPC-00FFFF?style=for-the-badge&labelColor=09000F)
+![Threads](https://img.shields.io/badge/THREADS-FF00FF?style=for-the-badge&labelColor=09000F)
+
+</div>
 
 > 🎯 **Purpose:** To organize and document the practical work and learning outcomes of CSE 402.
 
