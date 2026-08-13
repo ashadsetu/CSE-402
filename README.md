@@ -17,6 +17,10 @@
                          L A B
 </pre>
 
+<p>
+  A centralized workspace for <b>CSE 402</b> lab tasks, completed works, and submissions.
+</p>
+
 ![SYSTEM](https://img.shields.io/badge/●_SYSTEM-ONLINE-00FF66?style=flat-square&labelColor=09000F)
 ![LAB](https://img.shields.io/badge/◆_LAB-READY-00FFFF?style=flat-square&labelColor=09000F)
 
