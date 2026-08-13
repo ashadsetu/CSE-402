@@ -19,7 +19,7 @@
 </div>
 
 <p>
-  A centralized workspace for <b>匚丂乇 丩꧰己 Operating Systems Lab</b>, containing
+  A centralized workspace for <b>匚丂乇 丩꧰己 Ѻρєяαтιηg Ѕуѕтємѕ ℓαв</b>, containing
   laboratory programs, experiments, source codes, reports, and practical implementations.
 </p>
 
