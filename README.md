@@ -1,93 +1,49 @@
 <div align="center">
 
 <pre>
-╔══════════════════════════════════════════════════════════════════╗
-║  ██████╗ ██╗   ██╗██████╗ ███████╗██████╗                     ║
-║  ██╔══╝  ╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                    ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                    ║
-║  ██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗                    ║
-║  ╚██████╗   ██║   ██║     ███████╗██║  ██║                    ║
-║   ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝                    ║
-║                                                                ║
-║              C Y B E R  //  O S  L A B                        ║
-║                                                                ║
-║              C S E   4 0 2   ::   2 0 2 6                    ║
-╚══════════════════════════════════════════════════════════════════╝
+<span style="color:#00ffff"> ██████╗███████╗███████╗</span>  <span style="color:#ff00ff">██╗  ██╗</span>
+<span style="color:#00ffff">██╔════╝██╔════╝██╔════╝</span>  <span style="color:#ff00ff">██║  ██║</span>
+<span style="color:#00ffff">██║     ███████╗█████╗  </span>  <span style="color:#ff00ff">███████║</span>
+<span style="color:#00ffff">██║     ╚════██║██╔══╝  </span>  <span style="color:#ff00ff">╚════██║</span>
+<span style="color:#00ffff">╚██████╗███████║███████╗</span>  <span style="color:#ff00ff">     ██║</span>
+<span style="color:#00ffff"> ╚═════╝╚══════╝╚══════╝</span>  <span style="color:#ff00ff">     ╚═╝</span>
+
+<span style="color:#ff00ff">        O P E R A T I N G   S Y S T E M</span>
+<span style="color:#00ffff">                   L A B</span>
+
+<span style="color:#00ff00">              [ C S E  4 0 2 ]</span>
 </pre>
 
-<pre>
-╭──────────────────────────────────────────────────────────────────╮
-│  ◈ NETWORK       ONLINE     │  ◈ KERNEL       CSE-402           │
-│  ◈ TERMINAL      ACTIVE     │  ◈ LAB          READY             │
-╰──────────────────────────────────────────────────────────────────╯
-</pre>
+<span style="color:#00ff00">● SYSTEM ONLINE</span> &nbsp;&nbsp;
+<span style="color:#00ffff">◆ LAB READY</span>
 
 </div>
 
-<pre>
-┌─[ SYSTEM BOOT SEQUENCE ]─────────────────────────────────────────┐
-│                                                                  │
-│  root@cse402:~$ ./boot                                       █   │
-│                                                                  │
-│  [✓] Initializing terminal                                      │
-│  [✓] Loading operating system lab                              │
-│  [✓] Mounting lab workspace                                    │
-│  [✓] System status ................. ONLINE                    │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-</pre>
-
-## `// CSE_402 :: OPERATING_SYSTEM_LAB`
-
-> **Lab Tasks • Works • Submissions**
-
-A dedicated repository for **CSE 402 Operating System Lab**.
-
 ---
 
 <pre>
-╭─[ FILE SYSTEM ]──────────────────────────────────────────────────╮
-│                                                                  │
-│  root@cse402:~$ ls --color=always                               │
-│                                                                  │
-│  ├── <span style="color:#00ffff">lab-tasks/</span>       :: Lab Tasks                         │
-│  ├── <span style="color:#ff00ff">works/</span>           :: Lab Works                         │
-│  └── <span style="color:#ffff00">submissions/</span>     :: Submissions                       │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+<span style="color:#00ffff">root@cse402</span>:~$ <span style="color:#ff00ff">./start</span>
+
+<span style="color:#00ff00">[✓] Lab tasks loaded</span>
+<span style="color:#00ff00">[✓] Lab works ready</span>
+<span style="color:#00ff00">[✓] Submissions initialized</span>
+
+<span style="color:#ffff00">STATUS:</span> <span style="color:#00ff00">ONLINE</span>
 </pre>
 
-## `// SYSTEM_STATUS`
+> <span style="color:#00ffff">CSE 402</span> — <span style="color:#ff00ff">Operating System Lab</span>  
+> Lab tasks and works are maintained here.
 
 <pre>
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   SYSTEM        <span style="color:#00ff00">● ONLINE</span>                                      │
-│   COURSE        <span style="color:#00ffff">CSE 402</span>                                      │
-│   ENVIRONMENT   <span style="color:#ff00ff">OPERATING SYSTEM LAB</span>                          │
-│   WORKSPACE     <span style="color:#ffff00">READY</span>                                          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-</pre>
+<span style="color:#00ffff">root@cse402</span>:~$ <span style="color:#ff00ff">ls</span>
 
----
-
-<pre>
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║       ▓▓▓  C Y B E R   T E R M I N A L  ▓▓▓                    ║
-║                                                                  ║
-║       [ CSE-402 ]  [ OS-LAB ]  [ ONLINE ]                      ║
-║                                                                  ║
-║       root@cse402:~$ _                                          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+<span style="color:#00ffff">lab-tasks/</span>
+<span style="color:#ff00ff">works/</span>
+<span style="color:#ffff00">submissions/</span>
 </pre>
 
 <div align="center">
 
-`// CONNECTION ESTABLISHED //`
-
-**CSE 402 • OPERATING SYSTEM LAB**
+<span style="color:#ff00ff">// CSE 402 • OS LAB //</span>
 
 </div>
