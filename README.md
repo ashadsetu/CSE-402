@@ -5,15 +5,8 @@
 
 <img width="800" height="218" alt="CSE-402-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/60931b1f-4d72-44a4-ad34-47f02a33768f" />
 
-</div>
-
-<pre align="center">
-   ____  ____  __________  ___  ___________   ________   _______  _____________________  ___
-  / __ \/ __ \/ ____/ __ \/   |/_  __/  _/ | / / ____/  / ___/\ \/ / ___/_  __/ ____/  |/  /
- / / / / /_/ / __/ / /_/ / /| | / /  / //  |/ / / __    \__ \  \  /\__ \ / / / __/ / /|_/ / 
-/ /_/ / ____/ /___/ _, _/ ___ |/ / _/ // /|  / /_/ /   ___/ /  / /___/ // / / /___/ /  / /  
-\____/_/   /_____/_/ |_/_/  |_/_/ /___/_/ |_/\____/   /____/  /_//____//_/ /_____/_/  /_/   
-                                                                                                                                                   
+<img width="800" height="154" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/791eb8e2-78be-4a1a-8c68-029ddb572ccb" />
+                                                                                                                                                
 </pre>
 
 <p>
