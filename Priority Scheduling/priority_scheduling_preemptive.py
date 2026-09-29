@@ -17,50 +17,50 @@ completed = 0
 gantt = []
 
 while completed < n:
-idx = -1
-highest_priority = 9999
+    idx = -1
+    highest_priority = 9999
 
-for i in range(n):
-    if arrival_time[i] <= time and not done[i] and remaining_time[i] > 0:
-        if (priority[i] < highest_priority or
-            (priority[i] == highest_priority and
-             (idx == -1 or arrival_time[i] < arrival_time[idx]))):
-            highest_priority = priority[i]
-            idx = i
+    for i in range(n):
+        if arrival_time[i] <= time and not done[i] and remaining_time[i] > 0:
+            if (priority[i] < highest_priority or
+                    (priority[i] == highest_priority and
+                     (idx == -1 or arrival_time[i] < arrival_time[idx]))):
+                highest_priority = priority[i]
+                idx = i
 
-if idx == -1:
+    if idx == -1:
+        time += 1
+        continue
+
+    if not gantt or gantt[-1][0] != processes[idx]:
+        gantt.append([processes[idx], time, time + 1])
+    else:
+        gantt[-1][2] = time + 1
+
+    remaining_time[idx] -= 1
     time += 1
-    continue
 
-if not gantt or gantt[-1][0] != processes[idx]:
-    gantt.append([processes[idx], time, time + 1])
-else:
-    gantt[-1][2] = time + 1
+    if remaining_time[idx] == 0:
+        done[idx] = True
+        completed += 1
 
-remaining_time[idx] -= 1
-time += 1
-
-if remaining_time[idx] == 0:
-    done[idx] = True
-    completed += 1
-
-    completion_time[idx] = time
-    turnaround_time[idx] = completion_time[idx] - arrival_time[idx]
-    waiting_time[idx] = turnaround_time[idx] - burst_time[idx]
+        completion_time[idx] = time
+        turnaround_time[idx] = completion_time[idx] - arrival_time[idx]
+        waiting_time[idx] = turnaround_time[idx] - burst_time[idx]
 
 
 print("P\tAT\tBT\tPR\tCT\tTAT\tWT")
 
 for i in range(n):
-print(
-f"{processes[i]}\t"
-f"{arrival_time[i]}\t"
-f"{burst_time[i]}\t"
-f"{priority[i]}\t"
-f"{completion_time[i]}\t"
-f"{turnaround_time[i]}\t"
-f"{waiting_time[i]}"
-)
+    print(
+        f"{processes[i]}\t"
+        f"{arrival_time[i]}\t"
+        f"{burst_time[i]}\t"
+        f"{priority[i]}\t"
+        f"{completion_time[i]}\t"
+        f"{turnaround_time[i]}\t"
+        f"{waiting_time[i]}"
+    )
 
 avg_wt = sum(waiting_time) / n
 avg_tat = sum(turnaround_time) / n
@@ -71,6 +71,6 @@ print(f"Average Turnaround Time = {avg_tat:.2f}")
 print("\nGantt Chart:")
 
 for g in gantt:
-print(f"{g[0]}({g[1]}-{g[2]})", end=" ")
+    print(f"{g[0]}({g[1]}-{g[2]})", end=" ")
 
 print()
